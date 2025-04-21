@@ -1,13 +1,15 @@
 ![icon](https://github.com/user-attachments/assets/457313e3-8021-43ca-95cc-4285318a2979)
 
 - 👋 你好呀,好久不见，别来无恙啊！
-- 🥳 你可以在这里简单的了解我
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ 发生在个人身上的趣事
+- 🥳 你可以在这里简单的了解我~
+- 👀 简历：
+- 🌱 社会经历：
+- 💞️ 姻缘线（感情经历）：没有！我的情感史上是一片空白的。
+- 📫 邮箱：
+- 😄 爱好：
+<hr>
+- ⚡ 发生在我身边的趣事：
+- ①那是我上大二的时候,
 
 <!--
 XiaoZhang_Ent
