@@ -17,7 +17,8 @@
 [B]-茜姐你相信这个世界上有鬼吗？<br>
 [老师/茜姐]-怎么了<br>
 之后就不用说了，整个系部都知道了。<br>
-
+为什么问相不相信鬼呢？因为B的寝室晚上玩游戏玩的很晚，半夜0:00才睡觉，时差仅有30分钟，正常上床多少会有声音，但是A却一点声音也没有，半个小时个人感觉不会睡得太死，更何况身边多个人呢。<br>
+时间来到下午5:00，有一节教授的课，我们都来了，我就是在这个时候知道的，我给他发微信想确认一下，但是他没回我，哈哈
 <!--
 XiaoZhang_Ent
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/SkyDynamic/SkyDynamic/main/profile-3d-contrib/profile-night-green.svg"><img src="https://raw.githubusercontent.com/SkyDynamic/SkyDynamic/main/profile-3d-contrib/profile-night-green.svg" alt="meowmeowmeow" style="max-width: 100%;" _mstalt="215280"></a></p>
