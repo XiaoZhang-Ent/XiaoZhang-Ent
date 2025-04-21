@@ -1,11 +1,15 @@
 ![icon](https://github.com/user-attachments/assets/457313e3-8021-43ca-95cc-4285318a2979)
 
 - 👋 你好呀,好久不见，别来无恙啊！
-- 🥳 你可以在这里简单的了解我~
+- 🥳 你可以在这里简单的了解我呦~
 - 👀 简历：
+<hr>
 - 🌱 社会经历：
+<hr>
 - 💞️ 姻缘线（感情经历）：没有！我的情感史上是一片空白的。
+<hr>
 - 📫 邮箱：
+<hr>
 - 😄 爱好：
 <hr>
 - ⚡ 发生在我身边的趣事：<br>
@@ -19,6 +23,9 @@
 之后就不用说了，整个系部都知道了。<br>
 为什么问相不相信鬼呢？因为B的寝室晚上玩游戏玩的很晚，半夜0:00才睡觉，时差仅有30分钟，正常上床多少会有声音，但是A却一点声音也没有，半个小时个人感觉不会睡得太死，更何况身边多个人呢。<br>
 时间来到下午5:00，有一节教授的课，我们都来了，我就是在这个时候知道的，我给他发微信想确认一下，但是他没回我，哈哈
+
+
+
 <!--
 XiaoZhang_Ent
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/SkyDynamic/SkyDynamic/main/profile-3d-contrib/profile-night-green.svg"><img src="https://raw.githubusercontent.com/SkyDynamic/SkyDynamic/main/profile-3d-contrib/profile-night-green.svg" alt="meowmeowmeow" style="max-width: 100%;" _mstalt="215280"></a></p>
