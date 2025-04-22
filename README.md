@@ -3,14 +3,14 @@
 ![icon](https://github.com/user-attachments/assets/457313e3-8021-43ca-95cc-4285318a2979)
 
 - 👋 嗨，你好呀,好久不见，别来无恙啊！
-- emm，我是个Minecraft数据包和资源包的第三方开发者，技术还不成熟，请多关照！
+-  ✅ emm，我是个Minecraft数据包和资源包的第三方开发者，技术还不成熟，请多关照！
 
   
 <hr>
 <br>
 
 <h1>EXE-autumnwind</h1>
-- 这位是ndp开发组组长（It’s my friend），具体干什么用的可以去他的主页看一看(*^▽^*)~
+- 🤝 这位是ndp开发组组长（It’s my friend），具体干什么用的可以去他的主页看一看(*^▽^*)~
 
 
 
