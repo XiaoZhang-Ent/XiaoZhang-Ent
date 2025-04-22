@@ -10,7 +10,7 @@
 <br>
 
 <h1>EXE-autumnwind</h1>
-- 🤝 这位是ndp开发组组长（It’s my friend），具体干什么用的可以去他的主页看一看(*^▽^*)~
+<h3>- 🤝 这位是ndp开发组组长（It’s my friend），具体干什么用的可以去他的主页看一看(*^▽^*)~ </h3>
 <br>
 
 
