@@ -8,6 +8,16 @@
 
 
 
+- 这位是ndp开发组组长（it’s my friend），具体干什么用的可以去他的主页看一看
+
+
+
+
+<a href="https://www.w3school.com.cn">![微信截图_20250422192958](https://github.com/user-attachments/assets/f2d934f1-3b31-44f5-8f47-cc37103b97de)</a>
+
+
+
+
 
 
 
