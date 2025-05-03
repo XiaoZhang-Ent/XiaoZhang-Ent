@@ -4,7 +4,7 @@
 
 <h4>- 👋 嗨，你好呀,好久不见，别来无恙啊！(*≧▽≦)/</h4>
 <h4>- ✅ emm，我是个Minecraft数据包和资源包的第三方开发者，技术还不成熟，请多关照！</h4>
-
+<h4>- 啊对了，我还是NX软件的第三方插件开发者</h4>
   
 <hr>
 <br>
@@ -24,7 +24,7 @@
 
 
 <hr>
-<p align="center" dir="auto">更新于：2025年4月28日下午</p>
+<p align="center" dir="auto">更新于：2025年5月3日下午</p>
 <!---
 XiaoZhang-Ent/XiaoZhang-Ent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
